@@ -1,0 +1,51 @@
+/* 1 */
+.jumbotron .col-md-6 .display-4{
+    color: pink;
+}
+/* 2 */
+.nav span{
+    color: blue;
+}
+/* 3 */
+.jumbotron .col-md-6 .font-weight-bold{
+    color: purple;
+}
+/* 4 */
+ .col-md-8 .blog-post:first-of-type{
+    color: green;
+}
+/* 5 */
+.container .blog-post hr{
+    border-color: red;
+}
+/* 6 */
+nav span:nth-child(even){
+    color: red;
+}
+/* 7 */
+.p-4 .mb-0 a{
+    color: green;
+}
+/* 8 */
+.col-md-8  .blog-post:nth-child(3) .blog-post-meta a{
+    color: red;
+}
+/* 9 */
+.col-md-8 .blog-post:nth-child(4) li:nth-child(2){
+    color: red;
+}
+/* 10 */
+.float-right , mb-3 , mr-3 {
+    color: brown;
+}
+/* 11 */
+.blog-pagination a:nth-child(2){
+    color: red;
+}
+/* 12 */
+.blog-footer .text-center a:nth-child(2){
+    color: yellow;
+}
+
+
+
